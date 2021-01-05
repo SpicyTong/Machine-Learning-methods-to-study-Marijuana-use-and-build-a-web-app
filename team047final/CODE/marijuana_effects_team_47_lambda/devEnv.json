@@ -1,0 +1,7 @@
+{
+    "PredictFunction": {
+        "s3Bucket": "test-model-dev",
+        "alcohol": "clf_alcohol.pkl",
+        "tobacco": "clf_tobacco.pkl"
+    }
+}
